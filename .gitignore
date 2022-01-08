@@ -1,0 +1,6 @@
+port/
+db.sqlite3
+base.js
+__pycache__/
+.vscode
+migrations/

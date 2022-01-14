@@ -139,7 +139,7 @@ p{
 
   .flip-card-front {
     background-color: var(--jumbotron);
-    color: black;
+    color: var(--card_color);
   }
   .flip-card-back {
     background-color: transparent;
@@ -172,40 +172,6 @@ p{
     background-color: white;
 }
 
-/* .wrapper{
-    position: absolute;
-    top: 30%;
-    left : 50%;
-    transform: translate(-50%,-50%);
+h1{
+    color: var(--card_color);
 }
-
-.img-wrapper{
-    height: 350px;
-    width: 300px;
-    box-shadow: 0 40px 20px rgba(0, 0, 0, 0.5);
-}
-
-.img-area img{
-    width: 100%;
-}
-
-.img-text{
-    text-align: center;
-    color: #fff;
-    background: #262626;
-    padding: 25px;
-    margin-top: -5px;
-}
-
-.img-text h2{
-    font-size: 50px;
-    margin: 0;
-    font-family: bignoodletitling;
-    letter-spacing: 3px;
-}
-
-
-.img-text p{
-    font-family: merienda;
-    font-size: 15px;
-} */
